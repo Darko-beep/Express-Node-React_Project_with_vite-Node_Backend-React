@@ -10,3 +10,5 @@ git push -u origin main
 git remote add origin https://github.com/Darko-beep/Express-Node-React_Project_with_vite-Node_Backend-React.git
 git branch -M main
 git push -u origin main
+
+MongoDB & Node Setup with Vite
