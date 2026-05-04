@@ -1,4 +1,4 @@
-…or create a new repository on the command line
+create a new repository on the command line
 echo "# Express-Node-React_Project_with_vite-Node_Backend-React" >> README.md
 git init
 git add README.md
