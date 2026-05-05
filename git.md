@@ -12,3 +12,11 @@ git branch -M main
 git push -u origin main
 
 MongoDB & Node Setup with Vite
+
+Prerequisites — verify Node, npm, and MongoDB are installed
+Project scaffold — create the client (Vite) and server (Express) folders
+File structure — understand how the project is organised
+MongoDB connection — wire up Mongoose with a .env config
+Mongoose model — define a schema and add API routes
+Vite proxy — route /api/* calls to your Express server (no CORS headaches)
+Run the stack — fire up both servers and start building
